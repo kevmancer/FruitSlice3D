@@ -1,7 +1,5 @@
-## **FruitSlice3D - Murat Beder**
+## **FruitSlice3D**
 
-
-**Check out the video :** https://www.youtube.com/watch?v=ejLzErQJaQ4&list=PLWWal6pbWLUYxanwNaa-xqEA0LeCPud2o&index=3
 
 ## ***What is FruitSlice3D?***
 
@@ -11,5 +9,3 @@
 
 **With simple and intuitive controls, FruitSlice3D is easy to pick up and play but challenging to master. You'll need to use your quick reflexes and precision to chop your way to the top of the leaderboard.**
 
-
-Murat Beder 
